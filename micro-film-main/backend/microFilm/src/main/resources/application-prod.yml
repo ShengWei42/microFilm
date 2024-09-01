@@ -1,0 +1,12 @@
+spring:
+  # DataSource Config
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://124.222.255.122:3306/micro_film
+    username: micro_flim
+    password: 261923
+  redis:
+    port: 6379
+    host: 124.222.255.122
+    database: 0
+    password: 261923

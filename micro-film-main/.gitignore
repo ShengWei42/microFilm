@@ -1,0 +1,7 @@
+# frontend
+frontend/package-lock.json
+frontend/pnpm-lock.yaml
+frontend/node_modules
+frontend/dist
+
+.history
